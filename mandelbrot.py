@@ -5,8 +5,8 @@ p = 500
 resolution_x = 1200
 resolution_y = 1000
 
-#traditional center
-center_x = -0.75 
+# traditional center
+center_x = -0.75
 center_y = 0.1
 
 zoom = 500
